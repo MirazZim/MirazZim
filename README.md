@@ -6,7 +6,7 @@
 - 🎯 My goal: Keep improving and learning something new every day!
 
 ### 🚀 Tech Stack:
-⚛️ React • 🖌️ Tailwind CSS • 🎨 DaisyUI • 🔥 Firebase • ✨ JavaScript
+⚛️ React • 🖌️ Tailwind CSS • 🎨 DaisyUI • 🔥 Firebase • ✨ JavaScript ✨ NodeJs 
 
 
 
