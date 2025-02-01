@@ -1,4 +1,4 @@
-# 🚀 Building Scalable & Modern Web Experiences  
+# 🌟 Bonjour, Welcome to My Code Playground!  
 
 **Passionate Full-Stack Developer** dedicated to crafting high-performance, user-friendly web applications with clean, maintainable code.
 
