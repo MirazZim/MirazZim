@@ -20,5 +20,5 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MirazZim&layout=compact&theme=tokyonight)
 
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=**Mirazzim**&show_icons=true&theme=radical)
+![MirazZim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MirazZim&show_icons=true&theme=radical) 
 
