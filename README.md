@@ -10,7 +10,7 @@
 ## ⚡ Tech Expertise  
 
 ## 🔥 About Me
-- 🌱 Currently mastering **[Next.js](https://nextjs.org/)** & **[TypeScript](https://www.typescriptlang.org/)**
+- 🌱 Currently mastering **[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)** & **[TypeScript](https://www.typescriptlang.org/)**
 - 💡 Open to collaboration on **impact-driven frontend & full-stack projects**
 - 🎯 Constantly evolving—staying ahead with the latest web technologies
 
