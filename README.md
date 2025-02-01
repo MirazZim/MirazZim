@@ -1,12 +1,16 @@
-# 👋 Hello,
-**A passionate FullStack developer who loves building modern web applications.**
+# 🚀 Building Scalable & Modern Web Experiences  
 
-- 🌱 I’m currently learning **Next.js, TypeScript**
-- 💡 Open to collaboration on **exciting frontend projects**
-- 🎯 My goal: Keep improving and learning something new every day!
+**Passionate Full-Stack Developer** dedicated to crafting high-performance, user-friendly web applications with clean, maintainable code.
 
-### 🚀 Tech Stack:
-⚛️ React • 🖌️ Tailwind CSS • 🎨 DaisyUI • 🔥 Firebase • ✨ JavaScript ✨ NodeJs 
+## 🔥 About Me
+- 🌱 Currently mastering **Next.js & TypeScript**
+- 💡 Open to collaboration on **impact-driven frontend & full-stack projects**
+- 🎯 Constantly evolving—staying ahead with the latest web technologies
+
+## ⚡ Tech Expertise  
+✅ **Frontend:** React • Next.js • Tailwind CSS • DaisyUI  
+✅ **Backend:** Node.js • Firebase  
+✅ **Tools & Technologies:** TypeScript • JavaScript  
 
 
 
