@@ -3,9 +3,9 @@
 **Passionate Full-Stack Developer** dedicated to crafting high-performance, user-friendly web applications with clean, Modern, maintainable code.
 
 ## 🔥 About Me  
-- 🌱 Currently mastering [![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/) & [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)  
+- 💡 Currently mastering [![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/) & [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)  
 - 💡 Open to collaboration on **impact-driven frontend & full-stack projects**  
-- 🎯 Constantly evolving—staying ahead with the latest web technologies  
+- 💡 Constantly evolving—staying ahead with the latest web technologies  
 
 
 
