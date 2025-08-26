@@ -18,7 +18,7 @@
 
 ## 🌐 Portfolio
 
-Check out my latest projects and work:
+
 🤖 [My Portfolio](https://miraz-portfolio.vercel.app)
 
 ## 🧩 Tech Expertise
