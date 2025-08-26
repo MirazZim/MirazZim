@@ -1,7 +1,3 @@
-Here’s your updated Markdown with the new **🧑‍💻 Work Experience** section added. I’ve formatted it to match your existing style for consistency:
-
----
-
 # 🎖 Bonjour, Welcome to My Code Playground!
 
 **Passionate Full-Stack Developer** dedicated to crafting high-performance, user-friendly web applications with clean, modern, maintainable code.
