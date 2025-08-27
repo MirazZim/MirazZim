@@ -12,9 +12,9 @@
 
 **Software Engineer (Probationary)** at **Ultra X BD** *(July 2025 – Present)*
 
-* Gaining hands-on experience in **backend development** with **TypeScript**
+* Gaining hands on experience in **backend development** with **TypeScript**
 * Designing and integrating **APIs**, including services related to **Internet of Things (IoT)**
-* Learning **server-side logic** and collaborating with senior engineers to build **scalable backend systems**
+* Learning **Server-Side logic** and collaborating with senior engineers to build **scalable backend systems**
 
 ## 🌐 Portfolio
 
