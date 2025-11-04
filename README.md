@@ -10,7 +10,7 @@
 
 ## 🧑‍💻 Work Experience
 
-**Software Engineer (Probationary)** at **Ultra X BD** *(July 2025 – Present)*
+**Software Engineer** at **Ultra X BD** *(July 2025 – Present)*
 
 * Gaining hands on experience in **backend development** with **TypeScript**
 * Designing and integrating **APIs**, including services related to **Internet of Things (IoT)**
