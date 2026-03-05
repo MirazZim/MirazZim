@@ -28,6 +28,8 @@
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)](https://nextjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)](https://tailwindcss.com/)
 [![DaisyUI](https://img.shields.io/badge/DaisyUI-FFDD40?style=for-the-badge\&logo=daisyui\&logoColor=black)](https://daisyui.com/)
+[![ReactBits](https://img.shields.io/badge/ReactBits-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactbits.dev/)
+[![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)](https://ui.shadcn.com/)
 
 🏅 **Backend:**
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge\&logo=node.js\&logoColor=white)](https://nodejs.org/)
