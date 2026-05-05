@@ -62,7 +62,3 @@
 </div>
 
 ---
-
-## 🕹️ Pac-Man Eats My Contributions
-
-![pacman](https://raw.githubusercontent.com/MirazZim/MirazZim/output/pacman.gif)
