@@ -63,10 +63,10 @@
 
 ---
 
-## 🐍 My Contributions
+## 🕹️ Pac-Man Eats My Contributions
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MirazZim/MirazZim/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MirazZim/MirazZim/output/github-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/MirazZim/MirazZim/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MirazZim/MirazZim/output/pacman.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MirazZim/MirazZim/output/pacman.gif" />
+  <img alt="pacman animation" src="https://raw.githubusercontent.com/MirazZim/MirazZim/output/pacman.gif" />
 </picture>
