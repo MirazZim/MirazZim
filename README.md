@@ -55,10 +55,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MirazZim&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MirazZim&layout=compact&theme=tokyonight&hide_border=true)
-
-![MirazZim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MirazZim&show_icons=true&theme=radical&hide_border=true)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MirazZim\&layout=compact\&theme=tokyonight)
+![MirazZim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MirazZim\&show_icons=true\&theme=radical)
 </div>
 
 ---
